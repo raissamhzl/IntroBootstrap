@@ -1,0 +1,37 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Verdana;
+}
+
+.navbar{
+    background-color: #E7E6E1;
+}
+
+.quem-somos{
+    background-color: #F7F6E7;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.clientes{
+    background-color: #F2A154;
+    color: white
+}
+
+.servicos{
+    background-color: #314E52;
+    color: white;
+}
+
+.footer{
+    background-color: #E7E6E1;
+    color:#314E52
+}
+
+.footer a{
+    color: #314E52;
+    text-decoration: none;
+    font-weight: bold;
+}
